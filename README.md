@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin Farooq</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">Pursuing a Master's degree in Data Science at Government College University (GCU) in Lahore, Pakistan</h3>
 
 - 🔭 I’m currently working on **conventional projects**
 
